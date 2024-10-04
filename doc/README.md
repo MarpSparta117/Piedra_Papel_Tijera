@@ -1,17 +1,14 @@
 # Piedra, Papel o Tijera en Python
 
-Este repositorio contiene el código fuente de un juego de piedra, papel o tijera implementado en Python con una interfaz gráfica de usuario (GUI) y utilizando principios de programación orientada a objetos (POO). 
+Este repositorio contiene el código fuente de un juego de piedra, papel o tijera implementado en Python con una interfaz gráfica de usuario (GUI) usando **Tkinter** y utilizando principios de programación orientada a objetos (POO).
+
+![Captura de pantalla del juego](img.png)
 
 ## Descripción
 
 Este proyecto fue desarrollado como parte de mi aprendizaje en programación con Python, con el objetivo de aplicar conceptos de GUI y POO. 
 
-A través de él, he podido poner en práctica:
-
-* **Conceptos de POO:**  Clases, objetos, herencia, encapsulamiento, etc.
-* **Diseño de interfaces gráficas:**  Utilizando una librería como Tkinter, PyQt u otra.
-* **Manejo de eventos:**  Responder a las acciones del usuario en la interfaz gráfica.
-* **Conexión entre la interfaz gráfica y la lógica del juego:**  Integrar la GUI con el código que implementa las reglas del juego.
+Para la lógica del juego, se definieron las clases `Juego`, `Jugador` y `Mano`, aplicando el concepto de encapsulamiento para el manejo de las jugadas y el cálculo del resultado. La interfaz gráfica se diseñó con Tkinter, utilizando botones para representar las opciones de jugada y etiquetas para mostrar los resultados.
 
 ## Cómo jugar
 
@@ -22,10 +19,14 @@ A través de él, he podido poner en práctica:
 
 ## Próximos pasos
 
-* Añadir la opción de jugar contra otro jugador humano a través de la red.
-* Implementar diferentes niveles de dificultad para la computadora.
-* Añadir animaciones y efectos visuales para mejorar la experiencia de juego.
-* 
+* [ ] Añadir la opción de jugar contra otro jugador humano a través de la red.
+* [ ] Implementar diferentes niveles de dificultad para la computadora.
+* [ ] Añadir animaciones y efectos visuales para mejorar la experiencia de juego.
+
+## Cómo contribuir
+
+Las "pull requests" son bienvenidas. Para reportar errores o sugerir mejoras, por favor crea un "issue" en este repositorio.
+
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+[MarpSparta](https://github.com/MarpSparta117)
