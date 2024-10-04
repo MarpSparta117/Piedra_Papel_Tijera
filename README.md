@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente de un juego de piedra, papel o tijera implementado en Python con una interfaz gráfica de usuario (GUI) usando **Tkinter** y utilizando principios de programación orientada a objetos (POO).
 
-![Captura de pantalla del juego](img.png)
+![Captura de pantalla del juego](mg.png)
 
 ## Descripción
 
