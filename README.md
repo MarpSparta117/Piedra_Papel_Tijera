@@ -8,8 +8,6 @@ Este repositorio contiene el código fuente de un juego de piedra, papel o tijer
 
 Este proyecto fue desarrollado como parte de mi aprendizaje en programación con Python, con el objetivo de aplicar conceptos de GUI y POO. 
 
-Para la lógica del juego, se definieron las clases `Juego`, `Jugador` y `Mano`, aplicando el concepto de encapsulamiento para el manejo de las jugadas y el cálculo del resultado. La interfaz gráfica se diseñó con Tkinter, utilizando botones para representar las opciones de jugada y etiquetas para mostrar los resultados.
-
 ## Cómo jugar
 
 1. Clona el repositorio en tu máquina local.
