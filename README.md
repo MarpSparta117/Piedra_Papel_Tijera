@@ -1,6 +1,6 @@
 # Piedra, Papel o Tijera en Python
 
-Este repositorio contiene el código fuente de un juego de piedra, papel o tijera implementado en Python con una interfaz gráfica de usuario (GUI) usando **Tkinter** y utilizando principios de programación orientada a objetos (POO).
+Este repositorio contiene el código fuente de un juego de piedra, papel o tijera implementado en Python con una interfaz gráfica de usuario (GUI) usando **pyqt5** y utilizando principios de programación orientada a objetos (POO).
 
 ![Captura de pantalla del juego](img.png)
 
